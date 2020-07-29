@@ -1,4 +1,3 @@
-# **Hi, I'm Sam!**
 ![](https://raw.githubusercontent.com/SamSeabourn/SamSeabourn/master/topbanner.jpg)
 **I am a Web Developer with a passion for responsive and performant user experiences. 
 I believe that software should not only function well but also feel great to use. I love working with people to bring these type of experiences to the web.**
