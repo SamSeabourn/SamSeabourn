@@ -8,7 +8,7 @@ I believe that software should not only function well but also feel great to use
 ![](https://raw.githubusercontent.com/SamSeabourn/Slinky/develop/slinky-demo.gif)
 
 ### [SVG Experiment](https://samseabourn.github.io/SVG-Building-Experiment/)
-![](clip.gif)
+![](https://raw.githubusercontent.com/SamSeabourn/SVG-Building-Experiment/master/images/clip.gif)
 
 ### [Demo GB](https://github.com/SamSeabourn/DemoGB)
 ![](https://raw.githubusercontent.com/SamSeabourn/DemoGB/master/images/demoGB.gif)
