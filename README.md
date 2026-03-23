@@ -1,16 +1,31 @@
 ![](https://raw.githubusercontent.com/SamSeabourn/SamSeabourn/master/topbanner.jpg)
-**I am a Web Developer with a passion for responsive and performant user experiences. 
-I believe that software should not only function well but also feel great to use. I love working with people to bring these type of experiences to the web.**
 
-## **Some of my work**
-### [Slinky](https://github.com/SamSeabourn/Slinky)
-![](https://raw.githubusercontent.com/SamSeabourn/Slinky/develop/slinky-demo.gif)
+Frontend Systems Engineer. I build performance-critical browser systems for constrained environments.
 
-### [SVG Experiment](https://github.com/SamSeabourn/SVG-Building-Experiment)
-![](https://raw.githubusercontent.com/SamSeabourn/SVG-Building-Experiment/master/images/clip.gif)
+Currently maintaining Stan's TV platform across 175+ devices serving 1.6M+ users.
+Personal projects push into unsolved territory.
 
-### [Demo GB](https://github.com/SamSeabourn/DemoGB)
-![](https://raw.githubusercontent.com/SamSeabourn/DemoGB/master/images/demoGB.gif)
+[samseabourn.com](https://www.samseabourn.com) · [LinkedIn](https://www.linkedin.com/in/samseabourn/)
 
-## [Full portfolio](https://www.samseabourn.com/)
-## [LinkedIn](https://www.linkedin.com/in/samseabourn/)
+---
+
+## Stan
+
+https://github.com/SamSeabourn/SamSeabourn/blob/master/stan.mp4
+
+## Browsersaurus
+
+https://github.com/SamSeabourn/SamSeabourn/blob/master/browsersaurus.mp4
+
+---
+
+## Projects
+
+### [trash-panda](https://github.com/SamSeabourn/trash-panda)
+Find line numbers from minified JavaScript. TypeScript, zero dependencies.
+
+### [functional-browser](https://github.com/SamSeabourn/functional-browser)
+Functional wrappers for every browser constructor. Drop the `new` keyword. TypeScript, zero dependencies, tree shakeable, more of a meme than a real thing.
+
+### [shaka-player](https://github.com/SamSeabourn/shaka-player)
+Fork of Google's open-source Shaka Player. Contributed a 4x performance improvement to the HLS parser.
